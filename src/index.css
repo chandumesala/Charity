@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  font-family: "DM Sans", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #f4f6fa;
+}
+
+:root {
+  --main-blue: #1599da;
+  --main-black: #05192c;
+  --stroke: #dedfe7;
+}
+
+.bold {
+  font-weight: 700;
+}
